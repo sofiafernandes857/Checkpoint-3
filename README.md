@@ -4,7 +4,7 @@
 Esse é um projeto desenvolvido para o checkpoint 3 da disciplina de Front-End. Foi desenvolvido uma página para entender melhor o HTML semântico com HTML e CSS. 
 O objetivo era constuir exemplificar com cores como uma página geralmente é montada. 
 ### Git Pages
-
+https://sofiafernandes857.github.io/Checkpoint-3/
 
 ## Stack utilizada
 
